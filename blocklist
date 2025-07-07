@@ -1,0 +1,11 @@
+# Block YouTube core domains
+youtube.com
+www.youtube.com
+m.youtube.com
+youtu.be
+
+# YouTube API and video serving domains
+youtubei.googleapis.com
+googlevideo.com
+ytimg.com
+i.ytimg.com
