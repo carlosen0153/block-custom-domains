@@ -1,11 +1,30 @@
-# Block YouTube core domains
+# --- YouTube Core Domains ---
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
 0.0.0.0 m.youtube.com
 0.0.0.0 youtu.be
 
-# YouTube API and video serving domains
+# --- YouTube APIs and App Services ---
 0.0.0.0 youtubei.googleapis.com
+0.0.0.0 s.youtube.com
+0.0.0.0 www.youtube-nocookie.com
+
+# --- Video Streaming Domains ---
 0.0.0.0 googlevideo.com
+0.0.0.0 redirector.googlevideo.com
+0.0.0.0 manifest.googlevideo.com
+0.0.0.0 r1---sn.googlevideo.com
+0.0.0.0 r2---sn.googlevideo.com
+0.0.0.0 rr1---sn.googlevideo.com
+0.0.0.0 rr2---sn.googlevideo.com
+
+# --- Thumbnails and Static Assets ---
 0.0.0.0 ytimg.com
 0.0.0.0 i.ytimg.com
+0.0.0.0 s.ytimg.com
+0.0.0.0 yt3.ggpht.com
+
+# --- Misc Google Services for YouTube ---
+0.0.0.0 video-stats.l.google.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 partnerad.l.doubleclick.net
