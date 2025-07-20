@@ -1,3 +1,7 @@
+#==========================================================
+# youtube
+#==========================================================
+
 # --- YouTube Core Domains ---
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
@@ -28,3 +32,14 @@
 0.0.0.0 video-stats.l.google.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 partnerad.l.doubleclick.net
+
+#==========================================================
+# netflix
+#==========================================================
+
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 api-global.netflix.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 nrdp.nccp.netflix.com
+0.0.0.0 secure.netflix.com
