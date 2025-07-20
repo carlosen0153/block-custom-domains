@@ -3,43 +3,43 @@
 #==========================================================
 
 # --- YouTube Core Domains ---
-0.0.0.0 youtube.com
-0.0.0.0 www.youtube.com
-0.0.0.0 m.youtube.com
-0.0.0.0 youtu.be
+youtube.com
+www.youtube.com
+m.youtube.com
+youtu.be
 
 # --- YouTube APIs and App Services ---
-0.0.0.0 youtubei.googleapis.com
-0.0.0.0 s.youtube.com
-0.0.0.0 www.youtube-nocookie.com
+youtubei.googleapis.com
+s.youtube.com
+www.youtube-nocookie.com
 
 # --- Video Streaming Domains ---
-0.0.0.0 googlevideo.com
-0.0.0.0 redirector.googlevideo.com
-0.0.0.0 manifest.googlevideo.com
-0.0.0.0 r1---sn.googlevideo.com
-0.0.0.0 r2---sn.googlevideo.com
-0.0.0.0 rr1---sn.googlevideo.com
-0.0.0.0 rr2---sn.googlevideo.com
+googlevideo.com
+redirector.googlevideo.com
+manifest.googlevideo.com
+r1---sn.googlevideo.com
+r2---sn.googlevideo.com
+rr1---sn.googlevideo.com
+rr2---sn.googlevideo.com
 
 # --- Thumbnails and Static Assets ---
-0.0.0.0 ytimg.com
-0.0.0.0 i.ytimg.com
-0.0.0.0 s.ytimg.com
-0.0.0.0 yt3.ggpht.com
+ytimg.com
+i.ytimg.com
+s.ytimg.com
+yt3.ggpht.com
 
 # --- Misc Google Services for YouTube ---
-0.0.0.0 video-stats.l.google.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 partnerad.l.doubleclick.net
+video-stats.l.google.com
+pagead2.googlesyndication.com
+partnerad.l.doubleclick.net
 
 #==========================================================
 # netflix
 #==========================================================
 
-0.0.0.0 netflix.com
-0.0.0.0 www.netflix.com
-0.0.0.0 api-global.netflix.com
-0.0.0.0 ichnaea.netflix.com
-0.0.0.0 nrdp.nccp.netflix.com
-0.0.0.0 secure.netflix.com
+netflix.com
+www.netflix.com
+api-global.netflix.com
+ichnaea.netflix.com
+nrdp.nccp.netflix.com
+secure.netflix.com
